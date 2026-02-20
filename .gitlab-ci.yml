@@ -1,0 +1,4 @@
+include:
+  - project: 'bbi-test/platform-ci'
+    ref: main
+    file: '/index.yml'
